@@ -1,5 +1,5 @@
 #include <windows.h>
-#pragma comment(lib, "winmm.lib"))
+#pragma comment(lib, "winmm.lib")
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShowCmd) {
 
